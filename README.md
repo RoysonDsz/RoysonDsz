@@ -9,7 +9,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/royson-dsouza17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roysondsouza1727@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royson-dsouza17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roysondsouza1727@gmail.com) 
 
 </div>
 
