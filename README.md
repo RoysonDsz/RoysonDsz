@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Royson Dsz
 
 # 💫 About Me:
-🔭 I’m currently pursuing a B.E. in Computer Science and Engineering.<br>🌱 I’m currently learning Cloud Computing, Data Structures & Algorithms, and Prompt Engineering to sharpen my technical skills.<br>🎯 Focused on developing projects that make a meaningful impact.<br>💻 Experienced in Python, JavaScript, React, Node.js, Express.js MongoDB, and Django.<br>💬 I’m looking to collaborate on impactful web development projects and creative tech applications.<br>🌟 Fun Fact : I enjoy turning complex ideas into reality through code and love to explore new technologies. When I'm not coding, you'll     probably find me binge-watching tech content or exploring creative designs.<br>📫 You can reach me at roysondsouza1727@gmail.com
+🔭 I Recently completed B.E. in Computer Science and Engineering.<br>🌱 I’m currently learning Cloud Computing, Data Structures & Algorithms, and Prompt Engineering to sharpen my technical skills.<br>🎯 Focused on developing projects that make a meaningful impact.<br>💻 Experienced in Python, JavaScript, React, Node.js, Express.js MongoDB, and Django.<br>💬 I’m looking to collaborate on impactful web development projects and creative tech applications.<br>🌟 Fun Fact : I enjoy turning complex ideas into reality through code and love to explore new technologies. When I'm not coding, you'll     probably find me binge-watching tech content or exploring creative designs.<br>📫 You can reach me at roysondsouza1727@gmail.com
 
 ## 🌐 Socials:
 ###
